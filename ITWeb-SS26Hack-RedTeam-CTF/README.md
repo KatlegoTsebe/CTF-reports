@@ -1,14 +1,12 @@
-\# 🏆 ITWeb SS26Hack Red Team CTF 2026
+\# 🏆 ITWeb SS26Hack Red Team CTF
 
 
 
 \## 📌 Overview
 
-\- \*\*Event:\*\* ITWeb Security Summit 2026 Red Team CTF
+\- Web application penetration testing \& vulnerability assessment
 
-\- \*\*Category:\*\* Web Application Security
-
-\- \*\*Result:\*\* 🥇 1st Place / Overall Winner
+\- 🥇 \*\*1st Place Overall Winner\*\* — Red Team CTF
 
 
 
@@ -16,11 +14,47 @@
 
 
 
-\## 🛡️ Summary \& Highlights
-
-This technical report documents the black-box web application penetration testing performed during the ITWeb Security Summit 2026 Red Team CTF.
+\## 🔍 Key Skills Demonstrated
 
 
 
+\- Web application security testing \& vulnerability identification
 
+\- Black-box penetration testing under time constraints
+
+\- Exploitation \& Proof-of-Concept (PoC) development
+
+\- Vulnerability documentation \& technical security report writing
+
+
+
+\---
+
+
+
+\## 📄 Report
+
+
+
+📌 \*\*\[Download the full report (PDF)](./ctf%20report%20for%20Telspace.pdf)\*\*
+
+
+
+\---
+
+
+
+\## ⚠️ Disclaimer
+
+
+
+This writeup is based on an authorized CTF challenge. All investigation, exploitation, and reporting were conducted in a safe, sanctioned environment as part of the ITWeb Security Summit.
+
+
+
+\---
+
+
+
+👤 \*\*Authored by:\*\* Katlego Tsebe
 
