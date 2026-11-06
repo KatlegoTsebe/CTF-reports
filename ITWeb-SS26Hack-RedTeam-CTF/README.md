@@ -36,7 +36,7 @@
 
 
 
-📌 \*\*\[Download the full report (PDF)](<./ctf report for Telspace.pdf>)\*\*
+📌 \*\*\[Download the full report (PDF)](./ctf%20report%20for%20Telspace.pdf)\*\*
 
 
 
@@ -48,7 +48,7 @@
 
 
 
-This writeup is based on an authorized CTF challenge. All investigation, exploitation, and reporting were conducted in a safe, sanctioned environment as part of the ITWeb Security Summit.
+This writeup is based on an authorized CTF challenge. All investigation, exploitation, and reporting were conducted in a safe, sanctioned environment as part of the ITWeb Security Summit\[cite: 1].
 
 
 
