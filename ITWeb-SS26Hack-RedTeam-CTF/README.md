@@ -36,7 +36,7 @@
 
 
 
-📌 \*\*\[Download the full report (PDF)](./ctf%20report%20for%20Telspace.pdf)\*\*
+📌 \*\*\[Download the full report (PDF)](<./ctf report for Telspace.pdf>)\*\*
 
 
 
