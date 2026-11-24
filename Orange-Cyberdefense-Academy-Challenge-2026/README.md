@@ -16,7 +16,7 @@
 
 ## 📄 Report
 
-📌 **[Download the full report (PDF)](./katlego_Tsebe.pdf)**[katlego_Tsebe.pdf](https://github.com/user-attachments/files/34476607/katlego_Tsebe.pdf)
+
 
 
 ---
